@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ankush Kumar Yadav</h1>
 
-<!--
-**ankushky01/ankushky01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me 
+- **Pronouns:** He/Him
+- **Aspiring Data Analyst**
+- **Education:** BTech in Information Technology from Chaudhary Charan Singh University
+- **Skills:** Python, SQL, C++, Machine Learning, Data Analysis
+- **Interests:** Data Science, Machine Learning, Financial Analysis
+- 📫 How to reach me: Check social links below.
 
-Here are some ideas to get you started:
+### 💻 Projects
+- **Movie Recommender System**
+  - Developed an end-to-end content-based movie recommender system utilizing Python, Pandas, NumPy, and Scikit-learn.
+  - Implemented algorithms to analyze movie metadata such as genre, actors, and plot keywords, resulting in a 25% improvement in recommendation accuracy.
+  - Evaluated system performance using precision and recall metrics, showcasing effective data processing and feature extraction techniques.
+- **E-Commerce Sales Analysis**
+  - Utilized SQL queries to extract and transform e-commerce sales data, driving detailed analysis and enabling targeted marketing strategies.
+  - Employed data cleaning techniques, resulting in a 15% improvement in sales forecasting accuracy.
+  - Developed a Power BI dashboard showcasing sales trends and patterns in cross-selling opportunities and customer engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+- **Machine Learning Training + Internship** at I.T. Education Centre
+  - Performed EDA to understand data distributions, relationships, and class imbalances.
+  - Trained supervised ML models including Linear Regression, Logistic Regression, Decision Trees, and Random Forests.
+- **Coding Competition Committee Member** at University
+  - Organized coding competitions and encouraged over 50 students to participate.
+- **Hackathon Team Leader**
+  - Analyzed data using Python and Excel to gain insights and inform decision-making.
+  - Led a team to design and implement an Android application during a 2-day hackathon.
+
+### 🛠️ Languages and Tools 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</div>  
+
+### ☕ Hit Me Up Here
+<p align="center">
+	<a href="https://github.com/ankushky01" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
+    </a>
+    <a href="https://github.com/ankushky01/ankushky01" alt="Github Stars" title="Star Mark Repo">
+        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ankushkumaryadav1/">
+        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+</p>
+
+---
+
+Feel free to explore my repositories, raise issues, and contribute! Let's connect and collaborate on exciting data-driven projects.
+
+---

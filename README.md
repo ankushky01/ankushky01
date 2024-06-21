@@ -1,9 +1,8 @@
 <h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ankush Kumar Yadav</h1>
 
 ### 👨‍💻 About Me 
-- **Pronouns:** He/Him
 - **Aspiring Data Analyst**
-- **Education:** BTech in Information Technology from Chaudhary Charan Singh University
+- **Education:** B-Tech in Information Technology
 - **Skills:** Python, SQL, C++, Machine Learning, Data Analysis
 - **Interests:** Data Science, Machine Learning, Financial Analysis
 - 📫 How to reach me: Check social links below.

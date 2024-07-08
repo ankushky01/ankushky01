@@ -7,16 +7,6 @@
 - **Interests:** Data Science, Machine Learning, Financial Analysis
 - 📫 How to reach me: Check social links below.
 
-### 💻 Projects
-- **Movie Recommender System**
-  - Developed an end-to-end content-based movie recommender system utilizing Python, Pandas, NumPy, and Scikit-learn.
-  - Implemented algorithms to analyze movie metadata such as genre, actors, and plot keywords, resulting in a 25% improvement in recommendation accuracy.
-  - Evaluated system performance using precision and recall metrics, showcasing effective data processing and feature extraction techniques.
-- **E-Commerce Sales Analysis**
-  - Utilized SQL queries to extract and transform e-commerce sales data, driving detailed analysis and enabling targeted marketing strategies.
-  - Employed data cleaning techniques, resulting in a 15% improvement in sales forecasting accuracy.
-  - Developed a Power BI dashboard showcasing sales trends and patterns in cross-selling opportunities and customer engagement.
-
 ### 💼 Professional Experience
 - **Machine Learning Training + Internship** at I.T. Education Centre
   - Performed EDA to understand data distributions, relationships, and class imbalances.
